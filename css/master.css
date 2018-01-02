@@ -1,0 +1,19 @@
+body {
+  background: black;
+}
+
+.green-text {
+  font-size: 36px;
+  color: green;
+}
+.element {
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  align-items: center;
+}
+
+
+#typed {
+  font-size: 36px;
+}
